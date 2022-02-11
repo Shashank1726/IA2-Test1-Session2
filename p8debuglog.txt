@@ -1,7 +1,7 @@
 (gdb) b main
 Breakpoint 1 at 0xb1b: file p8final.c, line 84.
 (gdb) r
-Starting program: /home/runner/ppa-IA2-practice2/a.out 
+Starting program: /home/runner/IA2-Test1-Session2/a.out 
 warning: Error disabling address space randomization: Operation not permitted
 
 Breakpoint 1, main () at p8final.c:84
